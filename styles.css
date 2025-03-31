@@ -440,7 +440,7 @@ h3 {
   justify-content: space-around;
 }
 @media (max-width: 900px) {
-  .row {
+  .blog-row {
     flex-direction: column;
     margin: 10px;
   }
